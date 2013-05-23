@@ -20,6 +20,21 @@
 		8211891C17447E080075FDD3 /* MainStoryboard_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8211891A17447E080075FDD3 /* MainStoryboard_iPad.storyboard */; };
 		8211891F17447E080075FDD3 /* RTMasterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8211891E17447E080075FDD3 /* RTMasterViewController.m */; };
 		8211892217447E080075FDD3 /* RTDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8211892117447E080075FDD3 /* RTDetailViewController.m */; };
+		82118938174484530075FDD3 /* BurnRubber.aif in Resources */ = {isa = PBXBuildFile; fileRef = 82118929174484530075FDD3 /* BurnRubber.aif */; };
+		82118939174484530075FDD3 /* Button.png in Resources */ = {isa = PBXBuildFile; fileRef = 8211892A174484530075FDD3 /* Button.png */; };
+		8211893A174484530075FDD3 /* Button0.png in Resources */ = {isa = PBXBuildFile; fileRef = 8211892B174484530075FDD3 /* Button0.png */; };
+		8211893B174484530075FDD3 /* Button1.png in Resources */ = {isa = PBXBuildFile; fileRef = 8211892C174484530075FDD3 /* Button1.png */; };
+		8211893C174484530075FDD3 /* CarImage.png in Resources */ = {isa = PBXBuildFile; fileRef = 8211892D174484530075FDD3 /* CarImage.png */; };
+		8211893D174484530075FDD3 /* CarRunning.aif in Resources */ = {isa = PBXBuildFile; fileRef = 8211892E174484530075FDD3 /* CarRunning.aif */; };
+		8211893E174484530075FDD3 /* DestinationImage_iPad.png in Resources */ = {isa = PBXBuildFile; fileRef = 8211892F174484530075FDD3 /* DestinationImage_iPad.png */; };
+		8211893F174484530075FDD3 /* DestinationImage_iPhone.png in Resources */ = {isa = PBXBuildFile; fileRef = 82118930174484530075FDD3 /* DestinationImage_iPhone.png */; };
+		82118940174484530075FDD3 /* Destinations.plist in Resources */ = {isa = PBXBuildFile; fileRef = 82118931174484530075FDD3 /* Destinations.plist */; };
+		82118941174484530075FDD3 /* NYCImage_iPad.png in Resources */ = {isa = PBXBuildFile; fileRef = 82118932174484530075FDD3 /* NYCImage_iPad.png */; };
+		82118942174484530075FDD3 /* NYCImage_iPhone.png in Resources */ = {isa = PBXBuildFile; fileRef = 82118933174484530075FDD3 /* NYCImage_iPhone.png */; };
+		82118943174484530075FDD3 /* SeeTheUSA_iPad.png in Resources */ = {isa = PBXBuildFile; fileRef = 82118934174484530075FDD3 /* SeeTheUSA_iPad.png */; };
+		82118944174484530075FDD3 /* SeeTheUSA_iPhone.png in Resources */ = {isa = PBXBuildFile; fileRef = 82118935174484530075FDD3 /* SeeTheUSA_iPhone.png */; };
+		82118945174484530075FDD3 /* SFImage_iPad.png in Resources */ = {isa = PBXBuildFile; fileRef = 82118936174484530075FDD3 /* SFImage_iPad.png */; };
+		82118946174484530075FDD3 /* SFImage_iPhone.png in Resources */ = {isa = PBXBuildFile; fileRef = 82118937174484530075FDD3 /* SFImage_iPhone.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +57,21 @@
 		8211891E17447E080075FDD3 /* RTMasterViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RTMasterViewController.m; sourceTree = "<group>"; };
 		8211892017447E080075FDD3 /* RTDetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RTDetailViewController.h; sourceTree = "<group>"; };
 		8211892117447E080075FDD3 /* RTDetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RTDetailViewController.m; sourceTree = "<group>"; };
+		82118929174484530075FDD3 /* BurnRubber.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = BurnRubber.aif; sourceTree = "<group>"; };
+		8211892A174484530075FDD3 /* Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Button.png; sourceTree = "<group>"; };
+		8211892B174484530075FDD3 /* Button0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Button0.png; sourceTree = "<group>"; };
+		8211892C174484530075FDD3 /* Button1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Button1.png; sourceTree = "<group>"; };
+		8211892D174484530075FDD3 /* CarImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CarImage.png; sourceTree = "<group>"; };
+		8211892E174484530075FDD3 /* CarRunning.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = CarRunning.aif; sourceTree = "<group>"; };
+		8211892F174484530075FDD3 /* DestinationImage_iPad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DestinationImage_iPad.png; sourceTree = "<group>"; };
+		82118930174484530075FDD3 /* DestinationImage_iPhone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DestinationImage_iPhone.png; sourceTree = "<group>"; };
+		82118931174484530075FDD3 /* Destinations.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Destinations.plist; sourceTree = "<group>"; };
+		82118932174484530075FDD3 /* NYCImage_iPad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NYCImage_iPad.png; sourceTree = "<group>"; };
+		82118933174484530075FDD3 /* NYCImage_iPhone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NYCImage_iPhone.png; sourceTree = "<group>"; };
+		82118934174484530075FDD3 /* SeeTheUSA_iPad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SeeTheUSA_iPad.png; sourceTree = "<group>"; };
+		82118935174484530075FDD3 /* SeeTheUSA_iPhone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SeeTheUSA_iPhone.png; sourceTree = "<group>"; };
+		82118936174484530075FDD3 /* SFImage_iPad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SFImage_iPad.png; sourceTree = "<group>"; };
+		82118937174484530075FDD3 /* SFImage_iPhone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SFImage_iPhone.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +118,7 @@
 		8211890517447E080075FDD3 /* RoadTrip */ = {
 			isa = PBXGroup;
 			children = (
+				82118928174484530075FDD3 /* RoadTrip Resources */,
 				8211890E17447E080075FDD3 /* RTAppDelegate.h */,
 				8211890F17447E080075FDD3 /* RTAppDelegate.m */,
 				8211891717447E080075FDD3 /* MainStoryboard_iPhone.storyboard */,
@@ -113,6 +144,28 @@
 				8211891517447E080075FDD3 /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		82118928174484530075FDD3 /* RoadTrip Resources */ = {
+			isa = PBXGroup;
+			children = (
+				82118929174484530075FDD3 /* BurnRubber.aif */,
+				8211892A174484530075FDD3 /* Button.png */,
+				8211892B174484530075FDD3 /* Button0.png */,
+				8211892C174484530075FDD3 /* Button1.png */,
+				8211892D174484530075FDD3 /* CarImage.png */,
+				8211892E174484530075FDD3 /* CarRunning.aif */,
+				8211892F174484530075FDD3 /* DestinationImage_iPad.png */,
+				82118930174484530075FDD3 /* DestinationImage_iPhone.png */,
+				82118931174484530075FDD3 /* Destinations.plist */,
+				82118932174484530075FDD3 /* NYCImage_iPad.png */,
+				82118933174484530075FDD3 /* NYCImage_iPhone.png */,
+				82118934174484530075FDD3 /* SeeTheUSA_iPad.png */,
+				82118935174484530075FDD3 /* SeeTheUSA_iPhone.png */,
+				82118936174484530075FDD3 /* SFImage_iPad.png */,
+				82118937174484530075FDD3 /* SFImage_iPhone.png */,
+			);
+			path = "RoadTrip Resources";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -173,6 +226,21 @@
 				8211891617447E080075FDD3 /* Default-568h@2x.png in Resources */,
 				8211891917447E080075FDD3 /* MainStoryboard_iPhone.storyboard in Resources */,
 				8211891C17447E080075FDD3 /* MainStoryboard_iPad.storyboard in Resources */,
+				82118938174484530075FDD3 /* BurnRubber.aif in Resources */,
+				82118939174484530075FDD3 /* Button.png in Resources */,
+				8211893A174484530075FDD3 /* Button0.png in Resources */,
+				8211893B174484530075FDD3 /* Button1.png in Resources */,
+				8211893C174484530075FDD3 /* CarImage.png in Resources */,
+				8211893D174484530075FDD3 /* CarRunning.aif in Resources */,
+				8211893E174484530075FDD3 /* DestinationImage_iPad.png in Resources */,
+				8211893F174484530075FDD3 /* DestinationImage_iPhone.png in Resources */,
+				82118940174484530075FDD3 /* Destinations.plist in Resources */,
+				82118941174484530075FDD3 /* NYCImage_iPad.png in Resources */,
+				82118942174484530075FDD3 /* NYCImage_iPhone.png in Resources */,
+				82118943174484530075FDD3 /* SeeTheUSA_iPad.png in Resources */,
+				82118944174484530075FDD3 /* SeeTheUSA_iPhone.png in Resources */,
+				82118945174484530075FDD3 /* SFImage_iPad.png in Resources */,
+				82118946174484530075FDD3 /* SFImage_iPhone.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
